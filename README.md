@@ -1,5 +1,5 @@
 SWCMS Version 14
-****************
+----------------
 
 Description : Teamplate from Smarty & PowerTemplate run On PHP7++ & Mysql
 Code Dev and Update by : P'Ake, P'Pae and Team Dev.
