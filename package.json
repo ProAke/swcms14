@@ -1,0 +1,19 @@
+{
+  "name": "swcms14",
+  "version": "1.0.0",
+  "description": "Smart Content Management PHP7+ Support",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingeru/swcms14.git"
+  },
+  "author": "Ake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingeru/swcms14/issues"
+  },
+  "homepage": "https://github.com/kingeru/swcms14#readme"
+}
